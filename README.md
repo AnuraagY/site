@@ -1,14 +1,16 @@
-My Github Repo For My Personal Website
-====
+Pure CSS Layout Examples
+========================
 
-Official Websites of Anuraag Yachamaneni
+Layout examples using [Pure CSS][pure] compiled from the [pure-site][] project.
 
-www.anuraag.cf
+[pure]: http://purecss.io/
+[pure-site]: https://github.com/yui/pure-site
 
-www.anuraag.ml
 
-www.anuraag.ga
+License
+-------
 
-www.anuraag.tk
+This software is free to use under the Yahoo! Inc. BSD license.
+See the [LICENSE file][] for license text and copyright information.
 
-www.anuraag.herokuapp.com
+[LICENSE file]: https://github.com/yui/pure-site/blob/master/LICENSE.md
